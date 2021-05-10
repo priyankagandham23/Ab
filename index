@@ -1,0 +1,13 @@
+<!doctype html>
+<html>
+ <head></head> 
+ <body> 
+  <h1> Hello </h1> 
+  <div>
+    This is a html example from Dcoder, 
+   <br> have fun. :) 
+  </div> 
+  <img src="/storage/emulated/0/Download/2.jpeg"> 
+  <img src="/storage/emulated/0/Download/img1.jpeg"> 
+ </body>
+</html>
